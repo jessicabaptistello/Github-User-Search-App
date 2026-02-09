@@ -14,6 +14,8 @@ body {
   padding: 20px;
   border-radius: 12px;
   box-shadow: 0 8px 20px rgb(230, 115, 115);
+  color:#f9f5f5;
+  
 }
 
 .search {
